@@ -1,3 +1,4 @@
 # vaibhav
 This is my first repository.
-Authoe- vaibhav Tiwari
+<br>
+Author- Vaibhav Tiwari
